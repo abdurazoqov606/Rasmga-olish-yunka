@@ -9,11 +9,11 @@ from keep_alive import keep_alive
 # -------------------------------------
 
 # --- SOZLAMALAR ---
-API_TOKEN = '8369703506:AAGQSkw11tEMATQ_BHabc03kqOVnB2fNtbo'
+API_TOKEN = '8636129369:AAF44oJDyG_9mFzhdUIDCPd8N8ycDBLHu4Y'
 
 # !!! ADMIN ID RAQAMINI SHU YERGA YOZING !!!
 # Masalan: ADMIN_ID = 584930201
-ADMIN_ID = 7721468886
+ADMIN_ID = 5578555263
 
 # Saytingiz manzili
 BASE_URL = 'https://abdurazoqov606.github.io/Yunka/'
